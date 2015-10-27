@@ -1,0 +1,7 @@
+{
+    "name": "meapgmbh/zf2-modules",
+    "description": "This is a composer test",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
